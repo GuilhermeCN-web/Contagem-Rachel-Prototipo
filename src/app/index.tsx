@@ -1478,7 +1478,7 @@ export default function FichaChamada() {
                   styles.summaryDescription
                 }
               >
-                Total do Infantil
+                Total do Infantil HOJE
               </Text>
             </View>
           </View>
@@ -1522,7 +1522,7 @@ export default function FichaChamada() {
                   styles.summaryDescription
                 }
               >
-                Total do Fundamental
+                Total do Fundamental HOJE
               </Text>
             </View>
           </View>
@@ -1564,7 +1564,7 @@ export default function FichaChamada() {
                   styles.summaryDescription
                 }
               >
-                Total de Todas as Turmas
+                Total de Todas as Turmas HOJE
               </Text>
             </View>
           </View>
@@ -2769,7 +2769,7 @@ const styles = StyleSheet.create({
 
   summaryDescription: {
     color: COLORS.textSoft,
-    fontSize: 9,
+    fontSize: 11,
   },
 
   // =======================================================
